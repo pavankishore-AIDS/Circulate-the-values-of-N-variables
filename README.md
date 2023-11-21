@@ -31,8 +31,8 @@ n=int(input())
 ```
 
 ## Output:
-![OUTPUT](./images/circulate1.png)
-,
+![circulate1](https://github.com/pavankishore-AIDS/Circulate-the-values-of-N-variables/assets/94154941/b2036cf7-0f76-4389-8625-61c129ab40bc)
+
 
 ## Result:
 The output for circulate the values of n variables is successfull.

@@ -32,7 +32,7 @@ n=int(input())
 
 ## Output:
 ![OUTPUT](./images/circulate1.png)
-
+,
 
 ## Result:
 The output for circulate the values of n variables is successfull.
